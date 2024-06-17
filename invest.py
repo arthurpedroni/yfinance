@@ -1,4 +1,4 @@
-import invest as yf
+import yfinance as yf
 import matplotlib.pyplot as plt
 
 # Defina os símbolos das ações que você deseja obter dados
